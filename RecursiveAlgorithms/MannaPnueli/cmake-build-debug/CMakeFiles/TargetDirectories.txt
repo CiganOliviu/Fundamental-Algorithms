@@ -1,0 +1,3 @@
+D:/workflow_git/Fundamental-Algorithms/RecursiveAlgorithms/MannaPnueli/cmake-build-debug/CMakeFiles/MannaPnueli.dir
+D:/workflow_git/Fundamental-Algorithms/RecursiveAlgorithms/MannaPnueli/cmake-build-debug/CMakeFiles/edit_cache.dir
+D:/workflow_git/Fundamental-Algorithms/RecursiveAlgorithms/MannaPnueli/cmake-build-debug/CMakeFiles/rebuild_cache.dir
