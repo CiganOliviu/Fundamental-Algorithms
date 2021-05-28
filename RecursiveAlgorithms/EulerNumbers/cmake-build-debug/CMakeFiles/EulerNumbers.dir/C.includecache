@@ -1,0 +1,14 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+D:/workflow_git/Fundamental-Algorithms/RecursiveAlgorithms/EulerNumbers/main.c
+stdio.h
+-
+assert.h
+-
+
