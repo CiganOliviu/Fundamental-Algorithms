@@ -1,5 +1,4 @@
 #include <assert.h>
-#include <stdio.h>
 
 int BinarySearch(const int array[], int left, int right, int value) {
 
