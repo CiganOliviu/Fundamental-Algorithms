@@ -1,6 +1,9 @@
 #include <stdio.h>
+#include <assert.h>
 
 void OutputArray(int length, int * array) {
+
+    assert(length >= 0);
 
     for (int it = 0; it < length; ++it)
         printf("%d ", array[it]);
@@ -15,6 +18,8 @@ void InterchangeVariables(int * var1, int * var2) {
 
 void BubbleSort(int length, int * array) {
 
+    assert(length >= 0);
+    
     for (int it = 0; it < length - 1; ++it)
         for (int jit = length - 1; jit > 1; jit--)
             if (array[jit] < array[jit - 1])
