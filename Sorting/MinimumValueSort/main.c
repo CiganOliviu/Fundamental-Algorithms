@@ -1,6 +1,9 @@
+#include <assert.h>
 #include <stdio.h>
 
 void OutputArray(int length, int * array) {
+
+    assert(length >= 0);
 
     for (int it = 0; it < length; ++it)
         printf("%d ", array[it]);
@@ -14,6 +17,8 @@ void InterchangeVariables(int * var1, int * var2) {
 }
 
 void MinimumValueSort(int length, int * array) {
+
+    assert(length >= 0);
 
     for (int it = 0; it < length; it++)
         for (int jit = it + 1; jit < length; ++jit) {
