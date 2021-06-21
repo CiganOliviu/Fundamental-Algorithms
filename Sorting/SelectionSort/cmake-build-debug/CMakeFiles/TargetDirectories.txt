@@ -1,0 +1,3 @@
+D:/workflow_git/Fundamental-Algorithms/Sorting/SelectionSort/cmake-build-debug/CMakeFiles/SelectionSort.dir
+D:/workflow_git/Fundamental-Algorithms/Sorting/SelectionSort/cmake-build-debug/CMakeFiles/edit_cache.dir
+D:/workflow_git/Fundamental-Algorithms/Sorting/SelectionSort/cmake-build-debug/CMakeFiles/rebuild_cache.dir
