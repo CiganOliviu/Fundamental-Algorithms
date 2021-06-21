@@ -1,0 +1,3 @@
+D:/workflow_git/Fundamental-Algorithms/Sorting/DirectInsertionSorting/cmake-build-debug/CMakeFiles/DirectInsertionSorting.dir
+D:/workflow_git/Fundamental-Algorithms/Sorting/DirectInsertionSorting/cmake-build-debug/CMakeFiles/edit_cache.dir
+D:/workflow_git/Fundamental-Algorithms/Sorting/DirectInsertionSorting/cmake-build-debug/CMakeFiles/rebuild_cache.dir

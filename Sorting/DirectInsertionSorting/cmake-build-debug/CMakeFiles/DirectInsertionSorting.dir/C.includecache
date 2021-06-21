@@ -1,0 +1,14 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+D:/workflow_git/Fundamental-Algorithms/Sorting/DirectInsertionSorting/main.c
+assert.h
+-
+stdio.h
+-
+
