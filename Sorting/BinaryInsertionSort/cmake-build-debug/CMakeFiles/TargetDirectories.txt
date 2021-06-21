@@ -1,0 +1,3 @@
+D:/workflow_git/Fundamental-Algorithms/Sorting/BinaryInsertionSort/cmake-build-debug/CMakeFiles/rebuild_cache.dir
+D:/workflow_git/Fundamental-Algorithms/Sorting/BinaryInsertionSort/cmake-build-debug/CMakeFiles/BinaryInsertionSort.dir
+D:/workflow_git/Fundamental-Algorithms/Sorting/BinaryInsertionSort/cmake-build-debug/CMakeFiles/edit_cache.dir
